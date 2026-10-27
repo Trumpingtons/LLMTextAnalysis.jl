@@ -1,7 +1,7 @@
 name = "LLMTextAnalysis"
 uuid = "a88142f3-a164-49e9-925a-9408902b6922"
 authors = ["J S <49557684+svilupp@users.noreply.github.com> and contributors"]
-version = "0.8.0"
+version = "0.8.1"
 
 [deps]
 AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
